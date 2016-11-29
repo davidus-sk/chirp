@@ -1,0 +1,8 @@
+GSM
+SIM800L
+
+GPS
+
+
+Camera
+OV2640
